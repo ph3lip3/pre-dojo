@@ -1,2 +1,10 @@
-Coloque aqui suas instruÁıes ou coment·rios que ache ˙til/relevantes para possamos ler 
-quando estivermos avaliando a sua soluÁ„o
+B√¥nus: Jogadores que vencerem uma partida sem morrerem devem ganhar um "award";
+Como saberei se o jogador venceu ou perdeu a partida?
+Ent√£o considerei que a partida no log era uma vit√≥ria.
+
+Optei por n√£o utilizar Maven, Spring e etc. por causa da dimens√£o do projeto.
+
+Gostaria de melhorar os coment√°rios e modelar melhor algumas classes, para diminuir o acoplamento e aumentar a coes√£o, como por exemplo a classe Jogador.
+Mas preferi focar em resolver os requisitos do problema dentro do tempo que me foi proposto (1 dia).
+
+A classe de testes tamb√©m fiz apenas alguns teste unit√°rios, n√£o cobri muito o projeto.
